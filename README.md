@@ -1,8 +1,9 @@
 # mari
 
-test page
+testing out installing jekyll to create a blog
 
 ## Set-up 
+
 - Add _config.yml file
 - In the file add your theme, ```theme: jekyll-YOUR-THEME```
 - Here is a list of [supported themes](https://pages.github.com/themes/)
